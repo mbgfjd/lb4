@@ -1,0 +1,8 @@
+D:\пз\CalcFilesSize\CalcFilesSize\bin\Debug\CalcFilesSize.exe.config
+D:\пз\CalcFilesSize\CalcFilesSize\bin\Debug\CalcFilesSize.exe
+D:\пз\CalcFilesSize\CalcFilesSize\bin\Debug\CalcFilesSize.pdb
+D:\пз\CalcFilesSize\CalcFilesSize\obj\Debug\CalcFilesSize.csproj.AssemblyReference.cache
+D:\пз\CalcFilesSize\CalcFilesSize\obj\Debug\CalcFilesSize.csproj.SuggestedBindingRedirects.cache
+D:\пз\CalcFilesSize\CalcFilesSize\obj\Debug\CalcFilesSize.csproj.CoreCompileInputs.cache
+D:\пз\CalcFilesSize\CalcFilesSize\obj\Debug\CalcFilesSize.exe
+D:\пз\CalcFilesSize\CalcFilesSize\obj\Debug\CalcFilesSize.pdb
